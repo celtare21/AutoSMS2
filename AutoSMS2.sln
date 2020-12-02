@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSMS2", "AutoSMS2.csproj", "{A84FD2D8-1232-4773-B3DB-49D66B3A5794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSMS.Excel", "AutoSMS.Excel\AutoSMS.Excel.csproj", "{3360E0E5-E924-4B82-8FDD-6B8911D1A343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSMS.Common", "AutoSMS.Common\AutoSMS.Common.csproj", "{189375C9-93F8-4F95-A71C-23002EC4ACB1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoSMS.Installer", "AutoSMS.Installer\AutoSMS.Installer\AutoSMS.Installer.vdproj", "{FFCFF6D8-6CC0-4635-8EEB-B468ACEC5E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84FD2D8-1232-4773-B3DB-49D66B3A5794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84FD2D8-1232-4773-B3DB-49D66B3A5794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84FD2D8-1232-4773-B3DB-49D66B3A5794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84FD2D8-1232-4773-B3DB-49D66B3A5794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3360E0E5-E924-4B82-8FDD-6B8911D1A343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3360E0E5-E924-4B82-8FDD-6B8911D1A343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3360E0E5-E924-4B82-8FDD-6B8911D1A343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3360E0E5-E924-4B82-8FDD-6B8911D1A343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189375C9-93F8-4F95-A71C-23002EC4ACB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189375C9-93F8-4F95-A71C-23002EC4ACB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189375C9-93F8-4F95-A71C-23002EC4ACB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189375C9-93F8-4F95-A71C-23002EC4ACB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCFF6D8-6CC0-4635-8EEB-B468ACEC5E3D}.Debug|Any CPU.ActiveCfg = Debug
+		{FFCFF6D8-6CC0-4635-8EEB-B468ACEC5E3D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23987510-084C-4964-B34C-39F92375CD31}
+	EndGlobalSection
+EndGlobal
